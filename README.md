@@ -10,6 +10,8 @@
   <li><p>Trying to get a job in software T-T (I'm cooked)</p>
 </ul>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=octaviustheking&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
+<h2>Profile Views</h2>
+(Since Novemeber 26, 2025)
 
- > Give a man a program, and he'll be frustrated for a day. Teach a man to program, and he'll be frustrated for a lifetime.
+![](https://count.getloli.com/get/@octaviustheking.github.readme)
+</br>
