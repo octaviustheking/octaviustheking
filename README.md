@@ -12,7 +12,6 @@
 </ul>
 
 <h2>Profile Views</h2>
-(Since November 26, 2025)
 
 ![](https://count.getloli.com/get/@octaviustheking.github.readme)
 </br>
