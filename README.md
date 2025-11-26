@@ -10,7 +10,6 @@
   <li><p>Trying to get a job in software T-T (I'm cooked)</p>
 </ul>
 
-<h2>Stats 🥇</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=octaviustheking&show_icons=true&theme=radical)
+<p>bruh how do you implement github stats ARGH</p>
 
  > Give a man a program, and he'll be frustrated for a day. Teach a man to program, and he'll be frustrated for a lifetime.
