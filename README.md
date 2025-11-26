@@ -15,6 +15,7 @@
 </ul>
 
 <h2>Profile Views 👀</h2>
+<!-- might use miku theme -->
 
-![](https://count.getloli.com/get/@octaviustheking.github.readme)
+![](https://count.getloli.com/get/@octaviustheking.github.readme?theme=original-new)
 </br>
