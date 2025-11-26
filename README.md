@@ -10,6 +10,6 @@
   <li><p>Trying to get a job in software T-T (I'm cooked)</p>
 </ul>
 
-<p>bruh how do you implement github stats ARGH</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=octaviustheking&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
 
  > Give a man a program, and he'll be frustrated for a day. Teach a man to program, and he'll be frustrated for a lifetime.
