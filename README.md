@@ -17,5 +17,5 @@
 <h2>Profile Views 👀</h2>
 <!-- might use miku theme -->
 
-![](https://count.getloli.com/get/@octaviustheking.github.readme?theme=original-new)
+![](https://count.getloli.com/get/@octaviustheking.github.readme?theme=booru-jaypee)
 </br>
