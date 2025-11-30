@@ -12,6 +12,7 @@
   <li><p>I'm open to any communication! You can find my contact info in my website. </p></li>
   <li><p>Trying to get a job in software T-T (I'm cooked)</p>
   <li><p>manga > anime</p></li>
+  <li><p>If you like how my profile is set up, go to the octaviustheking repository, and fork and star it!</p></li>
 </ul>
 
 <h2>Profile Views 👀</h2>
