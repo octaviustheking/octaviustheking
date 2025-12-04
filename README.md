@@ -6,6 +6,11 @@
   <li><p>I mostly use Python, Java, HTML, CSS, and JS (I suck at all 5)</p></li>
   
   [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js)](https://skillicons.dev)
+
+  <li><p>I use PyCharm, IntelliJ IDEA, and VS Code!</p></li>
+
+  [![My Skills](https://skillicons.dev/icons?i=pycharm,idea,vscode)](https://skillicons.dev)
+
   
   <li><p>You can find my website <a href="https://octaviustheking.github.io" target="_blank">here!</a> </p></li>
   <li><p>I'm part of <a href="https://github.com/Studio-BDT" target="_blank">Studio BDT</a>, along with <a href="https://github.com/SamuelHZhuang" target="_blank">SamuelHZhuang</a>, <a href="https://github.com/NeoRazer504" target="_blank">NeoRazer504</a> and <a href="https://github.com/kamishiro-624" target="_blank">kamishiro</a>!</p></li>
