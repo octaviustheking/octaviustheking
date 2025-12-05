@@ -36,7 +36,7 @@
 
 ---
 <h2>Contact ☎️</h2>
-<p>Email: immatureninjagoat@gmail.com • Discord: immaturegoat</p>
+<p>Email: <a>immatureninjagoat@gmail.com</a> • Discord: immaturegoat</p>
 <img src="https://skillicons.dev/icons?i=gmail,discord"/>
 
 ---
