@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heya!+👋;I'm+ImmatureGoat)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&multiline=false&width=435&lines=Heya!+%F0%9F%91%8B;I'm+ImmatureGoat!;I+do+Java%2C+Python%2C+and+Web+Development!" alt="Typing SVG" /></a>
+
+---
 
 <h2>About Me 😄</h2>
 <ul>
@@ -19,6 +21,23 @@
   <li><p>manga > anime</p></li>
   <li><p>If you like how my profile is set up, go to the octaviustheking repository, and fork and star it!</p></li>
 </ul>
+
+---
+<h2>Currently ⏲️</h2>
+<ul>
+  <li><p>currently reading Koi to Yobu ni wa Sasayaka desuga</p></li>
+  <ul>
+    <li>(it's genuinely peak Daisuke Hagiwara please please please release more chapters)</li>
+  </ul>
+  <li><p>currently watching Spy x Family S3 (busjacking arc is PEAK)</p></li>
+</ul>
+
+---
+<h2>Contact ☎️</h2>
+<p>Email: immatureninjagoat@gmail.com • Discord: immaturegoat</p>
+<img src="https://skillicons.dev/icons?i=gmail,discord"/>
+
+---
 
 <h2>Profile Views 👀</h2>
 <!-- might use miku theme -->
