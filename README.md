@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&multiline=false&width=435&lines=Heya!+%F0%9F%91%8B;I'm+ImmatureGoat!;I+do+Java%2C+Python%2C+and+Web+Development!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&multiline=false&width=435&lines=Heya!+%F0%9F%91%8B;I'm+ImmatureGoat!;I+do+Java%2C+Python%2C+and+Web+Development!" alt="Heya! 👋 I'm ImmatureGoat!" /></a>
 
 ---
 
@@ -36,7 +36,7 @@
 
 ---
 <h2>Contact ☎️</h2>
-<p>Email: <a href="immatureninjagoat@gmail.com">immatureninjagoat@gmail.com</a> • Discord: immaturegoat</p>
+<p>Email: <a href="mailto:immatureninjagoat@gmail.com">immatureninjagoat@gmail.com</a> • Discord: immaturegoat</p>
 <img src="https://skillicons.dev/icons?i=gmail,discord"/>
 
 ---
