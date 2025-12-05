@@ -30,8 +30,8 @@
     <li>(it's genuinely peak Daisuke Hagiwara please please please release more chapters)</li>
   </ul>
   <li><p>currently watching Spy x Family S3 (busjacking arc is PEAK)</p></li>
-  <li>currently working on Blackhack and my personal website!</li>
-  <li>currently studying for USACO (I'm doomed...)</li>
+  <li><p>currently working on Blackhack and my personal website!</p></li>
+  <li><p>currently studying for USACO (I'm doomed...)</p></li>
 </ul>
 
 ---
