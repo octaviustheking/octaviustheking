@@ -15,12 +15,20 @@
 
   
   <li><p>You can find my website <a href="https://octaviustheking.github.io" target="_blank">here!</a> </p></li>
-  <li><p>I'm part of <a href="https://github.com/Studio-BDT" target="_blank">Studio BDT</a>, along with <a href="https://github.com/SamuelHZhuang" target="_blank">SamuelHZhuang</a>, <a href="https://github.com/NeoRazer504" target="_blank">NeoRazer504</a> and <a href="https://github.com/kamishiro-624" target="_blank">kamishiro</a>!</p></li>
-  <li><p>I'm open to any communication! You can find my contact info in my website. </p></li>
+  <li><p>I'm open to any communication! You can find my contact info down below and in my website!</p></li>
   <li><p>Trying to get a job in software T-T (I'm cooked)</p>
   <li><p>manga > anime</p></li>
   <li><p>If you like how my profile is set up, go to the octaviustheking repository, and fork and star it!</p></li>
 </ul>
+
+---
+<h2>Studio BDT 🐦‍⬛</h2>
+<p>I'm a part of Studio BDT, along with the people below!</p>
+
+ - <a href="https://github.com/SamuelHZhuang">SamZua</a>
+ - <a href="https://github.com/NeoRazer504">NeoRazer</a>
+ - <a href="https://github.com/kamishiro-624">kamishiro</a>
+ - <a href="https://github.com/VR00M-Vroom">VR00M-Vroom</a>
 
 ---
 <h2>Currently ⏲️</h2>
