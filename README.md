@@ -40,6 +40,7 @@
   <li><p>currently watching Spy x Family S3 (busjacking arc is PEAK)</p></li>
   <li><p>currently working on Blackhack and my personal website!</p></li>
   <li><p>currently studying for USACO (I'm doomed...)</p></li>
+  <li><p>currently playing overwatch, limbus company, and stellaris!</p></li>
 </ul>
 
 ---
