@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&multiline=false&width=435&lines=Heya!+%F0%9F%91%8B;I'm+ImmatureGoat!;I+do+Java%2C+Python%2C+and+Web+Development!" alt="Heya! 👋 I'm ImmatureGoat!" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&multiline=false&width=1000&lines=Heya!+%F0%9F%91%8B;I'm+ImmatureGoat!;I+do+Java%2C+Python%2C+and+Web+Development!" alt="Heya! 👋 I'm ImmatureGoat!" /></a>
 
 ---
 
