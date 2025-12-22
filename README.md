@@ -2,7 +2,7 @@
 
 ---
 
-<h2>About Me 😄</h2>
+<h2>About Me</h2>
 <ul>
   <li><p>I'm octaviustheking, or ImmatureGoat, as I use more commonly. </p></li>
   <li><p>I mostly use Python, Java, HTML, CSS, and JS (I suck at all 5)</p></li>
@@ -31,7 +31,7 @@
  - <a href="https://github.com/VR00M-Vroom">VR00M-Vroom</a>
 
 ---
-<h2>Currently ⏲️</h2>
+<h2>Currently</h2>
 <ul>
   <li><p>currently reading Koi to Yobu ni wa Sasayaka desuga</p></li>
   <li><p>currently watching Jujutsu Kaisen</p></li>
@@ -41,13 +41,13 @@
 </ul>
 
 ---
-<h2>Contact ☎️</h2>
+<h2>Contact</h2>
 <p>Email: <a href="mailto:immatureninjagoat@gmail.com">immatureninjagoat@gmail.com</a> • Discord: immaturegoat</p>
 <img src="https://skillicons.dev/icons?i=gmail,discord"/>
 
 ---
 
-<h2>Profile Views 👀</h2>
+<h2>Profile Views</h2>
 <!-- might use miku theme -->
 
 ![](https://count.getloli.com/get/@octaviustheking.github.readme?theme=booru-jaypee)
