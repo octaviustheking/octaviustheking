@@ -33,7 +33,7 @@
 ---
 <h2>Currently</h2>
 <ul>
-  <li><p>currently reading Koi to Yobu ni wa Sasayaka desuga</p></li>
+  <li><p>currently reading Alice in Borderland</p></li>
   <li><p>currently watching Jujutsu Kaisen</p></li>
   <li><p>currently working on Blackhack and my personal website!</p></li>
   <li><p>currently studying for USACO (I'm doomed...)</p></li>
