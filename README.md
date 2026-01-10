@@ -33,11 +33,11 @@
 ---
 <h2>Currently</h2>
 <ul>
-  <li><p>currently reading Alice in Borderland</p></li>
-  <li><p>currently watching Jujutsu Kaisen</p></li>
-  <li><p>currently working on Blackhack and my personal website!</p></li>
+  <li><p>currently reading Toilet-Bound Hanako kun</p></li>
+  <li><p>currently watching Undead Unluck</p></li>
+  <li><p>currently working (slaving away) on BDT projects</p></li>
   <li><p>currently studying for USACO (I'm doomed...)</p></li>
-  <li><p>currently playing overwatch, limbus company, and stellaris!</p></li>
+  <li><p>currently playing cs2, HOI IV, and stellaris</p></li>
 </ul>
 
 ---
