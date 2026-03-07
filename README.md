@@ -33,11 +33,11 @@
 ---
 <h2>Currently</h2>
 <ul>
-  <li><p>currently reading Toilet-Bound Hanako kun</p></li>
-  <li><p>currently watching Undead Unluck</p></li>
-  <li><p>currently working (slaving away) on BDT projects</p></li>
-  <li><p>currently studying for USACO (I'm doomed...)</p></li>
-  <li><p>currently playing cs2, HOI IV, and stellaris</p></li>
+  <li><p>currently reading Suicide Boy</p></li>
+  <li><p>currently watching Saiki K</p></li>
+  <li><p>currently working on school work (sigh)</p></li>
+  <li><p>currently studying for codeforces (USACO silver!!)</p></li>
+  <li><p>currently playing cs2, limbus company, and coal LLC</p></li>
 </ul>
 
 ---
