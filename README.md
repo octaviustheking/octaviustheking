@@ -33,11 +33,11 @@
 ---
 <h2>Currently</h2>
 <ul>
-  <li><p>currently reading Suicide Boy</p></li>
-  <li><p>currently watching Saiki K</p></li>
+  <li><p>currently reading Dream of a Red Chamber</p></li>
+  <li><p>currently watching Jujutsu Kaisen</p></li>
   <li><p>currently working on school work (sigh)</p></li>
   <li><p>currently studying for codeforces (USACO silver!!)</p></li>
-  <li><p>currently playing cs2, limbus company, and coal LLC</p></li>
+  <li><p>currently playing cs2, limbus company, lobotomy corp, and muck</p></li>
 </ul>
 
 ---
