@@ -22,7 +22,7 @@
 </ul>
 
 ---
-<h2>Studio BDT 🐦‍⬛</h2>
+<h2><a href="https://github.com/studio-bdt">Studio BDT 🐦‍⬛</a></h2>
 <p>I'm a part of Studio BDT, along with the people below!</p>
 
  - <a href="https://github.com/SamuelHZhuang">SamZua</a>
