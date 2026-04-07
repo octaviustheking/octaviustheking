@@ -12,13 +12,16 @@
   <li><p>I use PyCharm, IntelliJ IDEA, and VS Code!</p></li>
 
   [![My Skills](https://skillicons.dev/icons?i=pycharm,idea,vscode)](https://skillicons.dev)
-
   
   <li><p>You can find my website <a href="https://octaviustheking.github.io" target="_blank">here!</a> </p></li>
   <li><p>I'm open to any communication! You can find my contact info down below and in my website!</p></li>
   <li><p>Trying to get a job in software T-T (I'm cooked)</p>
   <li><p>manga > anime</p></li>
   <li><p>If you like how my profile is set up, go to the octaviustheking repository, and fork and star it!</p></li>
+
+  
+  <h2>Check out my pinned projects!</h2>
+
 </ul>
 
 ---
