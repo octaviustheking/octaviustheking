@@ -5,7 +5,7 @@
 <h2>About Me</h2>
 <ul>
   <li><p>I'm octaviustheking, or ImmatureGoat, as I use more commonly. </p></li>
-  <li><p>I mostly use Python, Java, HTML, CSS, and JS (I suck at all 5)</p></li>
+  <li><p>I mostly do Python, Java, and front-end dev</p></li>
   
   [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js)](https://skillicons.dev)
 
@@ -17,10 +17,6 @@
   <li><p>I'm open to any communication! You can find my contact info down below and in my website!</p></li>
   <li><p>Trying to get a job in software T-T (I'm cooked)</p>
   <li><p>manga > anime</p></li>
-  <li><p>If you like how my profile is set up, go to the octaviustheking repository, and fork and star it!</p></li>
-
-  
-  <h2>Check out my pinned projects!</h2>
 
 </ul>
 
