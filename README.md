@@ -32,11 +32,11 @@
 ---
 <h2>Currently</h2>
 <ul>
-  <li><p>currently reading The Tale of Genji</p></li>
-  <li><p>currently watching Neon Genesis Evangelion</p></li>
-  <li><p>currently working on my website (if i can get motivation)</p></li>
+  <li><p>currently reading The Ramparts of Ice</p></li>
+  <li><p>currently watching Frieren S2</p></li>
+  <li><p>currently working on my random projects</p></li>
   <li><p>currently studying for codeforces (USACO silver!!)</p></li>
-  <li><p>currently playing cs2, limbus company, lobotomy corp, and terraria</p></li>
+  <li><p>currently playing limbus company, lobotomy corp, and terraria</p></li>
 </ul>
 
 ---
