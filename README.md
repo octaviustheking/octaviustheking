@@ -13,7 +13,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=pycharm,idea,vscode)](https://skillicons.dev)
   
-  <li><p>You can find my website <a href="https://octaviustheking.github.io" target="_blank">here!</a> </p></li>
+  <li><p>You can find my website <a href="https://octaviustheking.github.io" target="_blank">here!</a> I'm planning to do heavy renovatiosn to it soon though. It's a bit outdated.</p></li>
   <li><p>I'm open to any communication! You can find my contact info down below and in my website!</p></li>
   <li><p>Trying to get a job in software T-T (I'm cooked)</p>
   <li><p>manga > anime</p></li>
@@ -33,10 +33,10 @@
 <h2>Currently</h2>
 <ul>
   <li><p>currently reading The Ramparts of Ice</p></li>
-  <li><p>currently watching Frieren S2</p></li>
-  <li><p>currently working on my random projects</p></li>
-  <li><p>currently studying for codeforces (USACO silver!!)</p></li>
-  <li><p>currently playing limbus company, lobotomy corp, and terraria</p></li>
+  <li><p>currently watching Bocchi the Rock!</p></li>
+  <li><p>currently working on Goa (check it out in my pinned projects)</p></li>
+  <li><p>currently "studying" for codeforces (USACO silver!!)</p></li>
+  <li><p>currently playing limbus company, stellaris, and overwatch</p></li>
 </ul>
 
 ---
